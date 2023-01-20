@@ -1,4 +1,4 @@
-package cn.qkmango.i18n;
+package cn.qkmango.maven.plugin;
 
 import java.io.*;
 import java.util.ArrayList;

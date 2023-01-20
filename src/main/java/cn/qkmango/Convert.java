@@ -1,7 +1,7 @@
 package cn.qkmango;
 
 
-import cn.qkmango.i18n.Internationalization;
+import cn.qkmango.maven.plugin.Internationalization;
 import org.apache.maven.plugin.AbstractMojo;
 import org.apache.maven.plugin.MojoExecutionException;
 import org.apache.maven.plugins.annotations.Mojo;
